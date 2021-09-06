@@ -78,16 +78,3 @@ We aim for great user experience with the following screen readers:
 * **iOS**: VoiceOver with Safari
 * **Android**: Android Accessibility Suite (formerly TalkBack) with Chrome.
 * **Chrome OS**: ChromeVox with Chrome.
-
-
-[Material Design]: https://material.io
-[Google Maps JavaScript API]: https://developers.google.com/maps/documentation/javascript/tutorial
-[YouTube Player API]: https://developers.google.com/youtube/iframe_api_reference
-[MDC Web]: https://github.com/material-components/material-components-web/
-[cdk-docs]: https://material.angular.io/cdk/categories
-[mat-docs]: https://material.angular.io
-[map-docs]: https://github.com/angular/components/blob/master/src/google-maps/README.md
-[ytp-docs]: https://github.com/angular/components/blob/master/src/youtube-player/README.md
-[getting-started]: https://material.angular.io/guide/getting-started
-[contributing]: https://github.com/angular/components/blob/master/CONTRIBUTING.md
-[help-wanted]: https://github.com/angular/components/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
